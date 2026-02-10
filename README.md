@@ -1,16 +1,72 @@
-## Hi there 👋
+# Olá 👋, eu sou o João Victor Machado
 
-<!--
-**machadozk/machadozk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Estudante de Ciência da Computação | Aspirante a Desenvolvedor de Software** 🇧🇷 Vila Velha, ES - Brasil
 
-Here are some ideas to get you started:
+Focado em aprender **lógica de programação**, **C/C++**, **Python** e tecnologias **Web**.  
+Busco aplicar conhecimentos em **arquitetura de software**, **otimização de sistemas** e **segurança da informação**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente em busca de uma oportunidade de **estágio** para contribuir e evoluir tecnicamente.
+
+---
+
+## 🌐 Onde me encontrar
+
+<p align="left">
+  <a href="https://github.com/machadozk">
+    <img src="https://img.shields.io/badge/GitHub-MACHADOZK-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/machadozk/">
+    <img src="https://img.shields.io/badge/LinkedIn-MACHADOZK-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:machado8a@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-MACHADO8A%40HOTMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 O que eu faço
+
+-   🏗️ Desenvolvimento de sites (Projetos acadêmicos como Tech Development ES e Formula Tech)
+-   ⚡ Otimização de Windows e performance de Hardware
+-   🤖 Criação de bots e automações em Python
+-   🧩 Resolução de problemas de lógica e algoritmos
+-   🔎 Estudos em Investigação Forense e Perícia Criminal
+
+---
+
+## 🛠️ Tech Stack
+
+### Linguagens e Backend
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend e Design
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![UX Design](https://img.shields.io/badge/UX%20Design-FF61F6?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=machadozk&show_icons=true&theme=dracula&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machadozk&layout=compact&theme=dracula" />
+</p>
+
+---
+
+## 🚀 Filosofia
+
+> _"A felicidade de sua vida depende da qualidade de seus pensamentos."_  
+> — **Marco Aurélio** (Meditações)
+
+---
+
+⭐ Sinta-se à vontade para explorar meus repositórios  
+🤝 Aberto a conexões, aprendizados e desafios técnicos
