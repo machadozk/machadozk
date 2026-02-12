@@ -55,8 +55,8 @@ Atualmente em busca de uma oportunidade de **estágio** para contribuir e evolui
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=machadozk&show_icons=true&theme=dracula" alt="Estatísticas de Machadozk" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machadozk&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=machadozk&theme=dracula" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=machadozk&theme=dracula" />
 </p>
 
 ---
