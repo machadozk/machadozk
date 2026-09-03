@@ -29,7 +29,6 @@ Atualmente em busca de uma oportunidade de **estágio** para contribuir e evolui
 
 -   🏗️ Desenvolvimento de sites (Projetos acadêmicos como Empresa TechES)
 -   ⚡ Otimização de Windows
--   🤖 Automações em Python
 -   🧩 Resolução de problemas de lógica e algoritmos
 -   🔎 Estudos em Investigação Forense e Perícia Criminal
 
