@@ -2,7 +2,7 @@
 
 🚀 **Ciência da Computação | Aspirante a Desenvolvedor de Software** 🇧🇷 Vila Velha, ES - Brasil
 
-Focado em aprender **lógica de programação**, **C/C++**, **Python**, **JavaScript** e tecnologias **Web**.  
+Focado em aprender **lógica de programação**, **C/C++**, **Java**, **JavaScript** entre outras tecnologias.  
 Busco aplicar conhecimentos em **arquitetura de software**, **otimização de sistemas** e **segurança da informação**.
 
 Atualmente em busca de uma oportunidade de **estágio** para contribuir e evoluir tecnicamente.
